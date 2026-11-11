@@ -54,3 +54,13 @@ All organizational, incident, and exposure data are synthetic and were generated
 The detailed investigation focused on EVA. Occupation-specific exposure hours were unavailable, so occupation counts do not establish comparative injury rates.
 
 The reviewed records do not establish root causes or corrective-action effectiveness. The improvement in 2087 cannot be attributed to the recorded actions.
+
+### Refreshing the Data
+
+1. Download this repository using Code → Download ZIP.
+2. Extract the ZIP and open the PBIX file in Power BI Desktop.
+3. Select Transform data → Data source settings.
+4. For each Excel source, select Change Source and browse to the matching file in the downloaded data folder.
+5. Select Close & Apply, then refresh the report.
+
+Tables created within Power BI do not require separate source files.
