@@ -38,11 +38,9 @@ Corrective-action status alone does not establish implementation or effectivenes
 - Corrected annual rate filtering so case counts and exposure hours covered the same year.
 - Resolved an inactive occupation relationship that caused totals to repeat across occupations.
 
-## Project Files
-
-- [Read the case study]("C:\Users\kelc2\OneDrive\Desktop\Asteria Project\Asteria Space Station Report.pdf")
-- [Download the Power BI report]("C:\Users\kelc2\OneDrive\Desktop\Asteria Project\Asteria_Safety_Analytics.pbix")
- 
+- [Read the case study](<Asteria Space Station Report.pdf>)
+- [Download the Power BI report](<Asteria_Safety_Analytics.pbix>)
+  
 ## How to Explore
 
 Read the case study PDF for the analytical narrative. Download the PBIX file and open it in Power BI Desktop to explore the report and model.
