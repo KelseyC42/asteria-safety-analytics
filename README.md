@@ -40,9 +40,9 @@ Corrective-action status alone does not establish implementation or effectivenes
 
 ## Project Files
 
-- **Case study PDF:** Business question, methodology, findings, recommendations, and limitations.
-- **Power BI report (.pbix):** Report pages, data model, and DAX measures.
-
+- [Read the case study]("C:\Users\kelc2\OneDrive\Desktop\Asteria Project\Asteria Space Station Report.pdf")
+- [Download the Power BI report]("C:\Users\kelc2\OneDrive\Desktop\Asteria Project\Asteria_Safety_Analytics.pbix")
+ 
 ## How to Explore
 
 Read the case study PDF for the analytical narrative. Download the PBIX file and open it in Power BI Desktop to explore the report and model.
