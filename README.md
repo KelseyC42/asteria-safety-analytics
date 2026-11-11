@@ -7,6 +7,9 @@ A Power BI portfolio project analyzing synthetic workplace injury data from a fi
 **Period:** 2083–2087  
 **Dataset:** 1,250 injury cases across eight operational divisions
 
+<img width="1288" height="709" alt="asteria-overview" src="https://github.com/user-attachments/assets/9bf0ff94-8de9-4c36-aad6-f12433a34be6" />
+
+
 ## Business Question
 
 Where should station leadership prioritize injury prevention, based on injury frequency, severity, and patterns across divisions?
